@@ -27,10 +27,7 @@
  
   </v-container>
  
-</template>
 
- 
-<template>
  
   <v-container
     class="mt-10"

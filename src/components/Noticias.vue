@@ -7,9 +7,9 @@
  
       <Menu/>    
  
-        <IntroduccionServicios/> 
+        <IntroduccionNoticias/> 
  
-        <GaleriaServicios/>
+        <GaleriaNoticias/>
  
         <Newsletter/>
  
@@ -35,8 +35,8 @@
 	
 	import Menu from './Menu';
 	import Footer from './Footer';
-	import IntroduccionServicios from './Servicios/IntroduccionServicios';
-	import GaleriaServicios from './Servicios/GaleriaServicios';
+	import IntroduccionNoticias from './Noticias/IntroduccionNoticias';
+	import GaleriaNoticias from './Noticias/GaleriaNoticias';
 	import Newsletter from './Home/Newsletter'; 
  
 	export default {
@@ -54,8 +54,8 @@
 		components: {
 			Menu,
 			Footer,
-			IntroduccionServicios,
-			GaleriaServicios,
+			IntroduccionNoticias,
+			GaleriaNoticias,
 			Newsletter,
 		},
  

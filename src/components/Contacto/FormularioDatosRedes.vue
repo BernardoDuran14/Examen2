@@ -31,9 +31,8 @@
   </form>
  
 </validation-observer>
-</template>
 
-<template>
+
     <div class="datosdecontacto">
   <h4 class="ael pb-2">Datos de Contacto</h4>
   <div class="ael">
@@ -82,11 +81,7 @@
   </div>
 </div>
  
-</template>
 
-
- 
-<template>
  
   <v-container
     class="mt-10"
